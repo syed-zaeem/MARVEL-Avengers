@@ -1,0 +1,41 @@
+@media (min-width: 1201px){
+    .navbar_logo{
+        margin-left: 220px;
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1200px){
+    .navbar_logo{
+        margin-left: 150px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    .navbar_logo{
+        margin-left: 43%;
+    }
+
+    .logout_button{
+        margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    .navbar_logo{
+        margin-left: 43%;
+    }
+
+    .logout_button{
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 576px){
+    .navbar_logo{
+        margin-left: 35%;
+    }
+
+    .logout_button{
+        margin-bottom: 20px;
+    }
+}

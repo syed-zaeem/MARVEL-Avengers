@@ -1,0 +1,69 @@
+@media (min-width: 1201px){
+    h5 {
+        font-size: 22px;
+    }
+
+    a{
+        font-size: 18px;
+    }
+
+    p, label, input{
+        font-size: 17px;
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1200px){
+    h5 {
+        font-size: 20px;
+    }
+
+    a{
+        font-size: 16px;
+    }
+
+    p, label, input{
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    h5 {
+        font-size: 19px;
+    }
+
+    a{
+        font-size: 15px;
+    }
+
+    p, label, input{
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    h5 {
+        font-size: 18px;
+    }
+
+    a{
+        font-size: 14px;
+    }
+
+    p, label, input{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 576px){
+    h5 {
+        font-size: 17px;
+    }
+
+    a{
+        font-size: 12px;
+    }
+
+    p, label, input{
+        font-size: 13px;
+    }
+}

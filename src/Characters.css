@@ -1,0 +1,290 @@
+
+
+
+@media (min-width: 1201px){
+    h5 {
+        font-size: 22px;
+    }
+
+    a{
+        font-size: 18px;
+    }
+
+    p{
+        font-size: 16px;
+    } 
+    
+    li{
+        font-size: 16px;
+    }
+
+    .backgroundImageClassThor{
+        color: white;
+        width: 78%;
+        background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        top: 56px;
+        background-size: 100%;
+        background-size: cover;
+        margin-left: "0px";
+    }
+    .backgroundImageClassIronMan{
+        color: white;
+        width: 78%;
+        background-image: url('./MyImages/Iron_Man_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        top: 56px;
+        background-size: 100%;
+        background-size: cover;
+        margin-left: "0px";
+    }
+    .backgroundImageClassCaptainAmerica{
+        color: white;
+        width: 78%;
+        background-image: url('./MyImages/Captain_America_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        top: 56px;
+        background-size: 100%;
+        background-size: cover;
+        margin-left: "0px";
+    }
+
+    .characterParagraphThor{
+        width: 50%;
+    }
+    .characterParagraphIronMan{
+        width: 50%;
+    }
+    .characterParagraphCaptainAmerica{
+        width: 50%;
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1200px){
+    h5 {
+        font-size: 20px;
+    }
+
+    a{
+        font-size: 16px;
+    }
+
+    p{
+        font-size: 14px;
+    } 
+    
+    li{
+        font-size: 15px;
+    }
+
+    .backgroundImageClassThor{
+        color: white;
+        width: 78%;
+        background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        top: 56px;
+        background-size: 100%;
+        background-size: cover;
+        margin-left: "0px";
+    }
+    .backgroundImageClassIronMan{
+        color: white;
+        width: 78%;
+        background-image: url('./MyImages/Iron_Man_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        top: 56px;
+        background-size: 100%;
+        background-size: cover;
+        margin-left: "0px";
+    }
+    .backgroundImageClassCaptainAmerica{
+        color: white;
+        width: 78%;
+        background-image: url('./MyImages/Captain_America_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        top: 56px;
+        background-size: 100%;
+        background-size: cover;
+        margin-left: "0px";
+    }
+
+    .characterParagraphThor{
+        width: 50%;
+    }
+    .characterParagraphIronMan{
+        width: 50%;
+    }
+    .characterParagraphCaptainAmerica{
+        width: 50%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    h5 {
+        font-size: 19px;
+    }
+
+    a{
+        font-size: 15px;
+    }
+
+    p{
+        font-size: 12px;
+    }
+    
+    li{
+        font-size: 14px;
+    }
+
+    .backgroundImageClassThor{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+    .backgroundImageClassIronMan{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+    .backgroundImageClassCaptainAmerica{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    h5 {
+        font-size: 18px;
+    }
+
+    a{
+        font-size: 14px;
+    }
+
+    p{
+        font-size: 11px;
+    }
+    
+    li{
+        font-size: 13px;
+    }
+    .backgroundImageClassThor{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+    .backgroundImageClassIronMan{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+    .backgroundImageClassCaptainAmerica{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+}
+
+@media (max-width: 576px){
+    h5 {
+        font-size: 17px;
+    }
+
+    a{
+        font-size: 12px;
+    }
+
+    p{
+        font-size: 10px;
+    }
+    
+    li{
+        font-size: 12px;
+    }
+
+    .backgroundImageClassThor{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+    .backgroundImageClassIronMan{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+    .backgroundImageClassCaptainAmerica{
+        color: white;
+        width: 78%;
+        background-color: black;
+        /* background-image: url('./MyImages/Thor_character_image.jpg');
+        background-attachment: fixed;
+        background-repeat: no-repeat; */
+        top: 56px;
+        /* background-size: 100%;
+        background-size: cover; */
+        margin-left: "0px";
+    }
+}
